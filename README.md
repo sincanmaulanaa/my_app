@@ -1,4 +1,4 @@
-# my_app
+# Name Generator App
 
 A new Flutter project.
 
